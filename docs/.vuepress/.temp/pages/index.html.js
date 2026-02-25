@@ -1,0 +1,3 @@
+import comp from "D:/project/vuepress-starter/docs/.vuepress/.temp/pages/index.html.vue"
+const data = JSON.parse("{\"path\":\"/\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{\"home\":true,\"heroImage\":\"/logo.png\",\"heroText\":\"liux CLI\",\"tagline\":\"前端统一开发脚手架\",\"actionText\":\"开始 →\",\"actionLink\":\"/guide/\"},\"git\":{\"updatedTime\":1771991143000,\"contributors\":[{\"name\":\"liuxiao\",\"username\":\"liuxiao\",\"email\":\"1054105865@qq.com\",\"commits\":1,\"url\":\"https://github.com/liuxiao\"}],\"changelog\":[{\"hash\":\"380d285bfa1679759a8ddc5dfc080306425f3c2f\",\"time\":1771991143000,\"email\":\"1054105865@qq.com\",\"author\":\"liuxiao\",\"message\":\"deploy\"}]},\"filePathRelative\":\"README.md\"}")
+export { comp, data }

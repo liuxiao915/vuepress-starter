@@ -6,7 +6,9 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: 'liux CLI',
   description: '前端统一开发工具平台',
-  base: '/cli/',
+  // GitHub Pages 项目地址： https://liuxiao915.github.io/vuepress-starter/
+  // 因此 base 必须设置为仓库名对应的路径
+  base: '/vuepress-starter/',
 
   // 指定打包器（必须配置其一：vite 或 webpack）
   bundler: viteBundler(),
