@@ -24,3 +24,6 @@ git -c user.name="liuxiao915" -c user.email="1054105865@qq.com" commit -m 'deplo
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 git push -f https://github.com/liuxiao915/vuepress-starter.git master:gh-pages
 cd -
+
+# 线上博客访问地址
+# https://liuxiao915.github.io/vuepress-starter/
